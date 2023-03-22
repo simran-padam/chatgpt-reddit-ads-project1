@@ -1,5 +1,5 @@
 # 2023Spring-Project1-STAT5243
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 # Text Mining on ChatGPT Reddit Comments
