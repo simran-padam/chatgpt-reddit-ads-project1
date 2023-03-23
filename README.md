@@ -1,6 +1,6 @@
 # 2023Spring-Project1-STAT5243
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1980xUUHz9RSMT4Fs3MOjacyAAn_Bqupr?usp=sharing)
 
 # Text Mining on ChatGPT Reddit Comments
         
